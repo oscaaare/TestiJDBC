@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="hh.palvelinohjelmointi"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="JDBCHarjoitus"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="720" key="x"/>
+		<item value="166" key="y"/>
+		<item value="531" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\4th week\StudentListOneToMany"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\3rd week\StudentListCrud\StudentListCrud"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\3rd week\w3tehtava1"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\bookstore"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\2nd week\w2tehtava3"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\2nd week\w2tehtava2"/>
+			<item value="C:\Users\h01340\Downloads\testi-poista-mut-3"/>
+			<item value="C:\Users\h01340\Downloads\testi-poista-mut3"/>
+			<item value="C:\TEMP\testi-poista-mut"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\2nd week\w2tehtava1"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\1st week\w1tehtava2"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\1st week\1tehtava"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\1st week\EkaSpringBootProjekti"/>
+			<item value="C:\Users\h01340\Desktop\Palvelinohjelmointi\1st week\Tunnilla"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="7thWeek-StudentListJPATest"/>
+			<item value="7thWeek-TestingExample"/>
+			<item value="6thWeek-SecuredStudentList-3"/>
+			<item value="6thWeek-SecuredStudentList-2"/>
+			<item value="6thWeek-SecuredStudentList-1"/>
+			<item value="6thWeek-SpringSecurityExample"/>
+			<item value="5thWeek-StudentRestExample"/>
+			<item value="5thWeek-RestExample"/>
+			<item value="4thWeek-OneToManyExample"/>
+			<item value="4thWeek-StudentJDBCExample"/>
+			<item value="3rdWeek-StudentListCrud"/>
+			<item value="3rdWeek-SpringBootORMExample"/>
+			<item value="2ndWeek-HelloFormValidation"/>
+			<item value="2ndWeek-HelloForm"/>
+			<item value="1stWeek-ekaprojekti"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

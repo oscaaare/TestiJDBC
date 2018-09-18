@@ -1,0 +1,6 @@
+1536582912046	Rename type 'DatabasedemoApplication'
+1536582979479	Rename type 'Student'
+1536582989733	Rename type 'StudentDAO'
+1536583000271	Rename type 'StudentRowMapper'
+1536583188016	Rename type 'StudentController'
+1536583268905	Rename resource 'studentlist.html'
